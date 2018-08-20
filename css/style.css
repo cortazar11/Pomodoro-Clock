@@ -1,0 +1,44 @@
+
+td {
+  text-align:center;
+  font-size:20px;
+}
+
+#circle{
+  width:55%;
+  height:auto;
+  padding:17% 0 17% 0;
+  border:1px solid;
+  border-radius:50%;
+  border-width:5px;
+  margin:0 auto;
+  margin-top:50px;
+  margin-left:20%;
+  color:#5C090D;
+  background-color:#6C6FD6;
+  cursor:pointer;
+}
+
+.blocks {
+    width:48%;
+    display:inline-block;
+}
+
+#breakMinus, #breakPlus, #seMinus, #sePlus {
+  padding:0px 3px 0px 3px;
+  background: #1CD8D2;
+  background: -webkit-linear-gradient(to left, #1CD8D2 , #93EDC7); 
+  background: linear-gradient(to left, #1CD8D2 , #93EDC7); 
+}
+
+#circle p {
+  text-align:center;
+  font-size:2.5em;
+  color:white;
+}
+
+h1 {
+  border-bottom:5px solid purple;
+  text-align:center;
+}
+
